@@ -35,4 +35,4 @@ The outputs are stored in CSV files a1 through a7.csv. These CSV files are the b
 
 7. Find the event that costed the most and determine the dollar value of its destruction per day.
 
-    Hurricane Sandy (October 2012 - 43,901.85 million USD/day)	
+    The event that costed the most was Hurricane Katrina (August 2005 - total cost 198,796.8 million). Its dollar value of destruction per day was 33,132.8 million USD/day.
